@@ -2,6 +2,7 @@ import Footer from "./Footer"
 export default function App() {
   return (
   <>
+    {/* First page */}
     <div class="px-28 py-20 w-screen h-full">
       <div class="flex flex-col text-4xl font-bold">
         <span>MENTAL</span>
@@ -23,6 +24,7 @@ export default function App() {
         </div>
       </div>
     </div>
+    {/* Steps */}
     <div class="px-20 w-full h-full">
       <div class="px-2 py-6 border-2 border-black border-l-0 border-r-0 text-3xl font-bold">
         How It Works
@@ -56,12 +58,14 @@ export default function App() {
           </div>
         </div>
       </div>
-    </div>  
+    </div> 
+    {/* Quiz  */}
     <div class="px-20 py-4 w-full h-full">
       <div class="px-2 py-6 border-2 border-black border-t-0 border-l-0 border-r-0 text-3xl font-bold">
         Quiz To Check Mental Status
       </div>
     </div>
+    {/* PDF */}
     <div class="px-20 py-4 w-full h-full">
       <div class="px-2 py-6 border-2 border-black border-l-0 border-r-0 text-3xl font-bold">
         Download PDF
