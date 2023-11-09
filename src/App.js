@@ -1,3 +1,4 @@
+import { Widget } from '@typeform/embed-react';
 import Footer from "./Footer"
 export default function App() {
   return (
@@ -63,6 +64,9 @@ export default function App() {
     <div class="px-20 py-4 w-full h-full">
       <div class="px-2 py-6 border-2 border-black border-t-0 border-l-0 border-r-0 text-3xl font-bold">
         Quiz To Check Mental Status
+      </div>
+      <div class="py-4">
+        <Widget id="RGrMfav6" height={500} />
       </div>
     </div>
     {/* PDF */}
