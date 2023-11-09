@@ -5,13 +5,14 @@ export default function App() {
   <>
     {/* First page */}
     <div class="px-28 py-20 w-screen h-full">
+      <img class="absolute -top-24 left-0 z-[-1] w-screen" src="png/img1.png"></img>
       <div class="flex flex-col text-4xl font-bold">
         <span>MENTAL</span>
         <span>HEALTH</span>
       </div>
       <div class="py-20 px-12 items-center">
         <div>
-          <img src="png/image1.png" class="w-60 h-60"/>
+          {/* <img src="png/image1.png" class="w-60 h-60"/> */}
         </div>
         <div class="text-6xl px-32 font-bold flex flex-col items-center justify-center">
           <div>Discover the path to</div>
@@ -21,12 +22,12 @@ export default function App() {
           </div>
         </div>
         <div class="flex justify-end">
-          <img src="png/image2.png" class="w-60 h-60"/>
+          {/* <img src="png/image2.png" class="w-60 h-60"/> */}
         </div>
       </div>
     </div>
     {/* Steps */}
-    <div class="px-20 w-full h-full">
+    <div class="px-20 pt-32 w-full h-full">
       <div class="px-2 py-6 border-2 border-black border-l-0 border-r-0 text-3xl font-bold">
         How It Works
       </div>
