@@ -17,7 +17,7 @@ export default function App() {
           <div>Discover the path to</div>
           <div>mental well-being</div>
           <div class="my-8 py-4 px-6 bg-black text-white text-2xl">
-            <button>Take Quiz</button>
+            <a href="#quiz">Take Quiz</a>
           </div>
         </div>
         <div class="flex justify-end">
@@ -62,9 +62,9 @@ export default function App() {
     </div> 
     {/* Quiz  */}
     <div class="px-20 py-4 w-full h-full">
-      <div class="px-2 py-6 border-2 border-black border-t-0 border-l-0 border-r-0 text-3xl font-bold">
+      <a id="quiz"class="px-2 py-6 border-2 border-black border-t-0 border-l-0 border-r-0 text-3xl font-bold">
         Quiz To Check Mental Status
-      </div>
+      </a>
       <div class="py-4">
         <Widget id="RGrMfav6" height={500} />
       </div>
