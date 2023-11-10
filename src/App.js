@@ -67,7 +67,7 @@ export default function App() {
         Quiz To Check Mental Status
       </a>
       <div class="py-4">
-        <Widget id="RGrMfav6" height={500} />
+        <Widget id="RKZrupcp" height={500} />
       </div>
     </div>
     {/* PDF */}
