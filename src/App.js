@@ -33,7 +33,7 @@ export default function App() {
       </div>
       <div class="flex justify-between">
         <div class="border-2 border-black border-t-0 border-l-0 border-r-0 p-20">
-          <img src="png/image.png" class="w-80 h-80"/>
+          <img src="https://res.cloudinary.com/dpkfvdqhv/image/upload/v1699590780/xhllrt8kvgenloui5pen.png" class="w-80 h-80"/>
           <span class="py-2 text-3xl font-semibold">Step 1</span>
           <div class="py-2 flex flex-col font-semibold">
             <span>Share your feelings. Express your </span>
@@ -42,7 +42,7 @@ export default function App() {
           </div>
         </div>
         <div class="border-2 border-black border-t-0 border-l-1 border-r-0 p-20">
-          <img src="png/image4.png" class="w-80 h-80"/>
+          <img src="https://res.cloudinary.com/dpkfvdqhv/image/upload/v1699590781/gsotqsoq2bus2ee3qhyl.png" class="w-80 h-80"/>
           <span class="py-2 text-3xl font-semibold">Step 2</span>
           <div class="py-2 flex flex-col font-semibold">
             <span>Explore self-care practices. </span>
@@ -51,7 +51,7 @@ export default function App() {
           </div>
         </div>
         <div class="border-2 border-black border-t-0 border-l-1 border-r-0 p-20">
-          <img src="png/group1.png" class="w-84 h-80"/>
+          <img src="https://res.cloudinary.com/dpkfvdqhv/image/upload/v1699590779/cnqcpuq900d89ufw52eh.png" class="w-84 h-80"/>
           <span class="py-2 text-3xl font-semibold">Step 3</span>
           <div class="py-2 flex flex-col font-semibold">
             <span>Connect with professionals. Seek </span>
