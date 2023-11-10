@@ -75,7 +75,7 @@ export default function App() {
       <div class="px-2 py-6 border-2 border-black border-l-0 border-r-0 text-3xl font-bold">
         Download PDF
       </div>
-      <div class="border-2 border-r-0 border-l-0 border-t-0 border-black">
+      <div class="px-4 border-2 border-r-0 border-l-0 border-t-0 border-black">
         <div>
           <div class="py-12 font-bold text-2xl">
             Take control of your mental health
